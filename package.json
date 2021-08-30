@@ -1,0 +1,20 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "ByteBank project for your customers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amog-oliveira/react-training-alr.git"
+  },
+  "author": "amog",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/amog-oliveira/react-training-alr/issues"
+  },
+  "homepage": "https://github.com/amog-oliveira/react-training-alr#readme"
+}
